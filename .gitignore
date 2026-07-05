@@ -1,0 +1,9 @@
+node_modules
+dist
+.venv/
+.DS_Store
+Backend/.env
+Backend/chroma_data/
+chroma_data/
+unimind.db
+Backend/unimind.db
